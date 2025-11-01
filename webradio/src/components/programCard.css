@@ -1,0 +1,9 @@
+.program-card {
+background: rgba(255,255,255,0.05);
+padding: 1rem;
+border-radius: 8px;
+margin-bottom: 1rem;
+}
+.program-time { opacity: 0.8; font-size: 0.9rem; }
+.program-host { opacity: 0.7; font-size: 0.85rem; }
+.program-description { margin-top: 0.5rem; font-size: 0.9rem; }

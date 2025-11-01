@@ -1,0 +1,19 @@
+body {
+  background: 
+    linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url('/fondo-radio.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+
+h1, h2, h3 {
+  color: #fff;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
